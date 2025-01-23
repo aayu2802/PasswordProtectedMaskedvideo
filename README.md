@@ -25,4 +25,5 @@ Intuitive navigation using Navigator.push and Navigator.pop.
 This app demonstrates a mix of basic security and multimedia integration, making it ideal for tutorials, video courses, or content-based applications.
 
 ## Output Screen:
+![Image](https://github.com/user-attachments/assets/7911b97b-7310-4423-82b5-2e11f7a035d5)
 ![Image](https://github.com/user-attachments/assets/0c79e849-210c-4777-ae36-828d72bc5515)
