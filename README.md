@@ -27,3 +27,4 @@ This app demonstrates a mix of basic security and multimedia integration, making
 ## Output Screen:
 ![Image](https://github.com/user-attachments/assets/7911b97b-7310-4423-82b5-2e11f7a035d5)
 ![Image](https://github.com/user-attachments/assets/0c79e849-210c-4777-ae36-828d72bc5515)
+![Image](https://github.com/user-attachments/assets/53fdc7ba-87c2-4fd5-a085-8a16a341004e)
